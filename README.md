@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Free AI Coding Agents — 100+ verified free tools" width="100%">
+</p>
+
 # Free-AI-Coding-Agents
 
 # The Ultimate Guide: 100+ Best Free AI Coding Agents & Platforms (November 2025)
